@@ -1,5 +1,5 @@
 Summary:	IBM JFS DMAPI library
-Summary(pl):	Biblioteka DMAPI dla JFS-a firmy IBM
+Summary(pl.UTF-8):   Biblioteka DMAPI dla JFS-a firmy IBM
 Name:		libjfsdm
 Version:	1.0.3
 Release:	1
@@ -20,15 +20,15 @@ support managed regions within a file, and use DMAPI access rights to
 control access to a file object. DMAPI refers to the interface defined
 by the XDSM Specification.
 
-%description -l pl
-Biblioteka do u¿ywania obs³ugi DMAPI pod Linuksem w systemie plików
+%description -l pl.UTF-8
+Biblioteka do uÅ¼ywania obsÅ‚ugi DMAPI pod Linuksem w systemie plikÃ³w
 JFS (Journaled File System) firmy IBM. API XDSM (Data Storage
-Management - zarz±dzania przechowywaniem danych) jest zgodne ze
-specyfikacj± CAE. Definiuje ona API u¿ywaj±ce zdarzeñ do powiadamiania
-aplikacji DM (Data Management - zarz±dzaj±cych danymi) o operacjach na
-plikach, umo¿liwienia aplikacjom DM zapis wraz z plikiem dowolnych
-informacji o atrybutach  oraz u¿ywania praw dostêpu DMAPI do
-sterowania dostêpem do obiektu pliku. DMAPI odnosi siê do interfejsu
+Management - zarzÄ…dzania przechowywaniem danych) jest zgodne ze
+specyfikacjÄ… CAE. Definiuje ona API uÅ¼ywajÄ…ce zdarzeÅ„ do powiadamiania
+aplikacji DM (Data Management - zarzÄ…dzajÄ…cych danymi) o operacjach na
+plikach, umoÅ¼liwienia aplikacjom DM zapis wraz z plikiem dowolnych
+informacji o atrybutach  oraz uÅ¼ywania praw dostÄ™pu DMAPI do
+sterowania dostÄ™pem do obiektu pliku. DMAPI odnosi siÄ™ do interfejsu
 zdefiniowanego w specyfikacji XDSM.
 
 %prep
