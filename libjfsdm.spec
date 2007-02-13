@@ -1,5 +1,5 @@
 Summary:	IBM JFS DMAPI library
-Summary(pl.UTF-8):   Biblioteka DMAPI dla JFS-a firmy IBM
+Summary(pl.UTF-8):	Biblioteka DMAPI dla JFS-a firmy IBM
 Name:		libjfsdm
 Version:	1.0.3
 Release:	1
